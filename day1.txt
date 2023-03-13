@@ -1,5 +1,5 @@
 # Kodlamaio
-Odev
+DAY1
 
 1] Python’da Numerik Veri;
 + Python’da üç tür numerik yani sayısal veri tipi vardır; int, float, complex.
